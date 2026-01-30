@@ -4,9 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm Leo Fu, a senior student major in Computer Science and Game Design. Recently I've been working on my game and a few internship project. I enjoy learning open-source development.
 
