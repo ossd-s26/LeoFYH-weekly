@@ -5,7 +5,7 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Leo Fu
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
@@ -17,9 +17,9 @@ description: CSCI-UA 480 Student, Spring 2026
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /weekly/images/icon.png 
+avatar: https://images.unsplash.com/photo-1501785888041-af3ef285b470
 # fallback text in case image is not served and/or for screen readers
-avatar_alt_text: Avatar
+avatar_alt_text: Leo Fu
 # use this separator in your blogs to indicate where the abbreviated part ends and 
 # the "Read more ..." link apprears 
 excerpt_separator: <!--more-->
@@ -34,10 +34,10 @@ future: true
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: yf2360@nyu.edu
   facebook:
   flickr:
-  github: ossd-s26
+  github: LeoFYH
   instagram:
   linkedin:
   pinterest:
@@ -52,14 +52,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s26.github.io/weekly"
+url: "https://ossd-s26.github.io"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/LeoFYH-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
