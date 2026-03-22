@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Mar 8, 2026   | [LeoFu123 — OSM changesets](https://www.openstreetmap.org/user/LeoFu123/history?before=179540893#map=17/39.743036/-104.985303)    | OpenStreet Map feature    | Changeset #179540892: added a note on a stone; edits in downtown Denver, CO (5 modifications, 1 deletion).    |
-|     |     |     |      |
+| Mar 8, 2026   | [Petar Nikolov-Zikov (old revision by LeoFu123)](https://en.wikipedia.org/w/index.php?title=Petar_Nikolov-Zikov&oldid=1342372347)    | Wikipedia edit    | Added a link to a sentence (revision oldid 1342372347).    |
 |     |     |     |      |
