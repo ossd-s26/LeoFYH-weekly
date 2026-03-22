@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Mar 8, 2026   | [LeoFu123 — OSM changesets](https://www.openstreetmap.org/user/LeoFu123/history?before=179540893#map=17/39.743036/-104.985303)    | OpenStreet Map feature    | Changeset #179540892: added a note on a stone; edits in downtown Denver, CO (5 modifications, 1 deletion).    |
 |     |     |     |      |
 |     |     |     |      |
