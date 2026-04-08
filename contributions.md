@@ -29,4 +29,5 @@ Replace the first row with your own contribution.
 | Mar 26, 2026   | [HKUDS/nanobot PR #2525](https://github.com/HKUDS/nanobot/pull/2525)    | GitHub pull request    | Fixes #2487: clearer agent progress/final messages (less false “working/done” feedback), duplicate final-response suppression, and subagent max-iterations as failure.    |
 | Mar 29, 2026   | [OSM changeset #180477745](https://www.openstreetmap.org/changeset/180477745)    | OpenStreet Map feature    | Changeset #180477745: updated camera-related details on one node (California St & 18th St area, Denver, CO).    |
 | Apr 5, 2026   | [OSM changeset #180877384](https://www.openstreetmap.org/changeset/180877384)    | OpenStreet Map feature    | Changeset #180877384: corrected pedestrian crossing sign direction on one node (Broadway / 17th Ave / Lincoln St area, Denver, CO).    |
+| Apr 8, 2026   | [HKUDS/nanobot PR #2951](https://github.com/HKUDS/nanobot/pull/2951)    | GitHub pull request    | `/status` token display: use divisor 1000 for context total (was 1024), so e.g. 128k windows show as 128k not 125k; matches “used” formatting and updates tests.    |
 |     |     |     |      |
