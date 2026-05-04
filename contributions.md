@@ -34,4 +34,5 @@ Replace the first row with your own contribution.
 | Apr 19, 2026   | [OSM changeset #181552881](https://www.openstreetmap.org/changeset/181552881#map=19/39.743607/-104.986918)    | OpenStreet Map feature    | Changeset #181552881: updated building `usage` (downtown Denver, CO; 1 object modified).    |
 | Apr 25, 2026   | [OSM changeset #181826359](https://www.openstreetmap.org/changeset/181826359#map=19/39.744104/-104.988526)    | OpenStreet Map feature    | Changeset #181826359: updated building `usage` in Denver, CO (1 object modified).    |
 | Apr 25, 2026   | [HKUDS/nanobot PR #3451](https://github.com/HKUDS/nanobot/pull/3451)    | GitHub pull request    | Adds `/ping` slash command: single-line “Pong” + uptime for quick liveness checks; registered in `/help` (complements full `/status`).    |
+| May 4, 2026   | [OSM changeset #182213889](https://www.openstreetmap.org/changeset/182213889#map=19/39.743381/-104.987256)    | OpenStreet Map feature    | Changeset #182213889: updated POI/map icon on one node in downtown Denver, CO (comment: “change icon”).    |
 |     |     |     |      |
